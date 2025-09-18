@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Soy Javier Rojas
+# ¡Hola! 👋 soy:
 <!-- Banner con tu nombre -->
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=220&section=header&text=Javier%20Rojas&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
 
@@ -14,20 +14,11 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Bienvenido+a+mi+perfil+👋;Desarrollador+en+formación;Aprendiendo+cada+día+🚀">
   </a>
+  ![Perfil views](https://komarev.com/ghpvc/?username=javierrojas62&color=blue)
 </p>
-
-
-![Perfil views](https://komarev.com/ghpvc/?username=javierrojas62&color=blue)
-
-**Estudiante en la [Universidad Nacional de San Juan](https://www.unsj.edu.ar/)** 🎓 · **Cursos en [CoderHouse](https://www.coderhouse.com/)** 💻  
-Me interesa el desarrollo de software, aprendizaje automático y todo lo relacionado con crear soluciones útiles.
 
 ---
 
-### 🔭 Actualmente
-- Estudiando en la Universidad Nacional de San Juan.
-- Realizando cursos y proyectos prácticos en CoderHouse.
-- Buscando oportunidades para colaborar en proyectos Open Source.
 
 ### 🛠️ Tecnologías que uso y estudio
 
@@ -60,8 +51,8 @@ Me interesa el desarrollo de software, aprendizaje automático y todo lo relacio
 
 ---
 
-### 🔗 Proyectos destacados
-<!-- - **Proyecto-1** — breve descripción. 🔗 `https://github.com/javierrojas62/proyecto-1`
+<!-- ### 🔗 Proyectos destacados
+- **Proyecto-1** — breve descripción. 🔗 `https://github.com/javierrojas62/proyecto-1`
 - **Proyecto-2** — breve descripción. 🔗 `https://github.com/javierrojas62/proyecto-2`
 (Agrega aquí los repositorios que quieras destacar) -->
 
