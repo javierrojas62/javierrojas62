@@ -9,11 +9,9 @@
 <!-- Línea decorativa -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-<!-- Texto animado tipo máquina de escribir -->
+<!-- Texto  -->
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Bienvenido+a+mi+perfil+👋;Desarrollador+en+formación;Aprendiendo+cada+día+🚀">
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Bienvenido+a+mi+perfil+👋;Desarrollador+en+formación;Aprendiendo+cada+día+🚀" alt="Texto animado">
 </p>
 
 ### 🛠️ Tecnologías que uso y estudio
