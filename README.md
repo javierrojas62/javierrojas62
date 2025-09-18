@@ -14,7 +14,7 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Bienvenido+a+mi+perfil+👋;Desarrollador+en+formación;Aprendiendo+cada+día+🚀">
   </a>
-![Profile views](https://komarev.com/ghpvc/?username=javierrojas62&color=blue)
+![Visitas](https://profile-counter.glitch.me/javierrojas62/count.svg)
 </p>
 
 ---
