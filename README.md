@@ -1,62 +1,92 @@
-# ¡Hola! 👋 soy:
-<!-- Banner con tu nombre -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=220&section=header&text=Javier%20Rojas&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
-
+<!-- Banner -->
 <p align="center">
-  <em>💻 Estudiante en la Universidad Nacional de San Juan · 📚 Formado en CoderHouse · 🚀 Apasionado por la tecnología</em>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Javier%20Rojas&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Desarrollador%20Full%20Stack%20en%20formación&descAlignY=55&descSize=18" />
 </p>
 
-<!-- Línea decorativa -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<!-- Texto animado -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C6FF&center=true&vCenter=true&width=500&lines=¡Hola!+Soy+Javier+👋;Estudiante+en+la+UNSJ+🎓;Backend+con+PHP+%26+Laravel+⚙️;Frontend+con+React+⚛️;Siempre+aprendiendo+🚀" alt="Typing SVG" />
+  </a>
+</p>
 
-### 🛠️ Tecnologías que uso y estudio
-
-![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=flat-square)
-![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat-square)
-![Ruby](https://img.shields.io/badge/-Ruby-CC342D?logo=ruby&logoColor=white&style=flat-square)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
-![Tkinter](https://img.shields.io/badge/-Tkinter-FF6F00?logo=python&logoColor=white&style=flat-square)
-![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=flat-square)
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat-square)
-![Sass](https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=white&style=flat-square)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square)
-
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square)
-![pgAdmin](https://img.shields.io/badge/-pgAdmin-336791?logo=postgresql&logoColor=white&style=flat-square)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=database&logoColor=white&style=flat-square)
-
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat-square)
-![Apache Kafka](https://img.shields.io/badge/-Kafka-231F20?logo=apache-kafka&logoColor=white&style=flat-square)
-
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat-square)
-![Trello](https://img.shields.io/badge/-Trello-0052CC?logo=trello&logoColor=white&style=flat-square)
-
+<!-- Redes -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/javierrojas62/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:javierrojas62@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=javierrojas62&style=for-the-badge&color=0072ff&label=VISITAS" />
+</p>
 
 ---
 
-<!-- ### 🔗 Proyectos destacados
-- **Proyecto-1** — breve descripción. 🔗 `https://github.com/javierrojas62/proyecto-1`
-- **Proyecto-2** — breve descripción. 🔗 `https://github.com/javierrojas62/proyecto-2`
-(Agrega aquí los repositorios que quieras destacar) -->
+## 🧑‍💻 Sobre mí
+
+- 🎓 Estudiante en la **Universidad Nacional de San Juan**
+- 📚 Formado en **CoderHouse**
+- 🔭 Actualmente trabajando en proyectos con **Laravel**, **React** y **Flutter**
+- 🐧 Usuario de **Linux (Fedora)**
+- ⚡ Me apasiona la tecnología, la infraestructura y aprender cosas nuevas
 
 ---
 
-### 📈 Mis estadísticas
-![Javier's GitHub stats](https://github-readme-stats.vercel.app/api?username=javierrojas62&show_icons=true&theme=radical)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=javierrojas62&layout=compact&theme=radical)
+## 🛠️ Tecnologías
+
+<p align="center">
+  <b>Lenguajes</b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,ruby,js,php,dart&theme=dark" />
+</p>
+
+<p align="center">
+  <b>Frameworks y librerías</b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=laravel,react,nodejs,flask,flutter,vite,bootstrap,sass,html,css&theme=dark" />
+</p>
+
+<p align="center">
+  <b>Bases de datos y DevOps</b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,docker,kubernetes,kafka,linux,fedora,git,github&theme=dark" />
+</p>
+
+<p align="center">
+  <b>Diseño y organización</b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=figma&theme=dark" />
+  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" height="48" />
+</p>
 
 ---
 
-### ✉️ Contacto
-- Email: javierrojas62@gmail.com.com  
-- LinkedIn: https://www.linkedin.com/in/javierrojas62/
+## 🚀 Proyectos destacados
+
+<!-- Reemplazá los nombres de repo por los reales -->
+<p align="center">
+  <a href="https://github.com/javierrojas62/NOMBRE-REPO-1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=javierrojas62&repo=NOMBRE-REPO-1&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/javierrojas62/NOMBRE-REPO-2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=javierrojas62&repo=NOMBRE-REPO-2&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
 
 ---
 
-Gracias por visitar mi perfil. ¡Conectemos! 🚀
+## 📊 Estadísticas
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=javierrojas62&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=javierrojas62&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=javierrojas62&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=javierrojas62&theme=tokyo-night&hide_border=true&area=true" width="95%" />
+</p>
+
+---
+
+<p align="center">
+  <i>Gracias por pasar por mi perfil. ¡Conectemos! 🚀</i>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=120&section=footer" width="100%" />
